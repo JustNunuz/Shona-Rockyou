@@ -1,4 +1,6 @@
 # Shona-Rockyou
+<img width="1536" height="1024" alt="20260112_2053_Image Generation_simple_compose_01kesrsj1dfz3a3ytdd15s9yzh" src="https://github.com/user-attachments/assets/03f4db7c-e27f-45df-8d8e-28e2d0b6402e" />
+
 
 ## Overview
 
