@@ -56,8 +56,8 @@ data/
  ├── prefixes.txt          # Common linguistic prefixes
  ├── suffixes.txt          # Common linguistic suffixes
  ├── combined_raw.txt      # All entries combined (raw)
+ ├── popculture.txt        # celebs, slang, brands basically pop-culture
  └── combined_mutated.txt  # Generated morphological variants
- |__ popculture.txt        # celebs, slang, brands basically pop-culture
 ```
 
 ### 1. Given Names
