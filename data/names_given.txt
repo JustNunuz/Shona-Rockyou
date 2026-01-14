@@ -1,4 +1,5 @@
 Anesu
+Atida
 Anotida
 Anotidaishe
 Anotifarira
@@ -27,7 +28,6 @@ Anesu
 Kudzai
 Kudzaishe
 Komborero
-Blessing
 Simbarashe
 Tanaka
 Tanya
@@ -155,18 +155,6 @@ Kuda
 Tenda
 Farai
 Nyasha
-Blessing
-Promise
-Precious
-Memory
-Innocent
-Justice
-Wisdom
-Gift
-Peace
-Hope
-Faith
-Mercy
 Chengetai
 Kudzanai
 Ropafadzo
@@ -267,7 +255,6 @@ Mudiwangu
 Munodanana
 Mutakadzi
 Rangaridzai
-Rumbidzisai
 Ruvimbiso
 Runyararo
 Rutapudzo
