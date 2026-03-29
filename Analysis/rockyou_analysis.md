@@ -186,26 +186,3 @@ This project includes two dashboards:
 * **Linguistic Dashboard** — shows character distribution and structure
 
 These images provide a **visual representation of the patterns** described above.
-
----
-
-## 🚀 Final Note
-
-This analysis highlights a key idea:
-
-> Password weakness is not just about users — it is about **language, habits, and structure**
-
-Understanding these patterns is essential for:
-
-* Better password policies
-* Stronger security tools
-* More realistic attack simulations
-
-## **Visualisations**
-
-Two visual outputs are included in this folder:
-
-* **Structural dashboard** — showing frequency, entropy, and distribution patterns
-* **Linguistic dashboard** — showing phonetic and morphological structure
-
-These provide a visual representation of the patterns described above.
