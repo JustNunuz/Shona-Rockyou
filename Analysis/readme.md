@@ -1,4 +1,4 @@
-# **Shona Wordlist Analysis — README**
+# **Shona Wordlist Analysis**
 
 ## **Overview**
 
