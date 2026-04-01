@@ -1,0 +1,1010 @@
+[PROCESSED]: Shangwa         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chizema         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Makuvaza        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.59
+   Original: [#######        ] 2.41 | Mutated: [#########      ] 3.00
+[PROCESSED]: Kahari          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Nyoka           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Takaendesa      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.68
+   Original: [#######        ] 2.65 | Mutated: [#########      ] 3.32
+[PROCESSED]: Tauro           | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Muponda         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Nhira           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Makaya          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.79
+   Original: [#####          ] 1.79 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mazorodze       | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.73 | Mutated: [########       ] 2.95
+[PROCESSED]: Mapiye          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Joseph          | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Myambo          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Dzingai         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Jambaya         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Chikoto         | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mutsago         | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Nyamukapa       | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Nhete           | [VARIANTS]: 8   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Baloyi          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Masenda         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mandebvu        | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chikowore       | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Samson          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Gonye           | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Masamba         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Chikore         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Jaji            | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Makondo         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chidhakwa       | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.73 | Mutated: [########       ] 2.95
+[PROCESSED]: Chinoda         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Gonzo           | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Madzivanyika    | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.56
+   Original: [#########      ] 3.02 | Mutated: [##########     ] 3.58
+[PROCESSED]: Musengi         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Mudzimu         | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.52 | Mutated: [#######        ] 2.52
+[PROCESSED]: Chiutsi         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Nyamasoka       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Mushambi        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mazhindu        | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Gwanzura        | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Muchabaiwa      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.48
+   Original: [########       ] 2.85 | Mutated: [#########      ] 3.32
+[PROCESSED]: Mapisa          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Tachiona        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Kamba           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Zikhali         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mugova          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Chitate         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Tlou            | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Chigodora       | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Chimuka         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Khabo           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chatikobo       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Machemedze      | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.28
+   Original: [########       ] 2.85 | Mutated: [#########      ] 3.12
+[PROCESSED]: Nyambuya        | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.25
+   Original: [#######        ] 2.50 | Mutated: [########       ] 2.75
+[PROCESSED]: Chipere         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mushipe         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Badza           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Murombo         | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chimanga        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mandava         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Mutare          | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mberi           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Mukombwe        | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Kaitano         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Pasipamire      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.40
+   Original: [########       ] 2.92 | Mutated: [#########      ] 3.32
+[PROCESSED]: Soko            | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.50
+   Original: [####           ] 1.50 | Mutated: [######         ] 2.00
+[PROCESSED]: Chirara         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [######         ] 2.24 | Mutated: [#######        ] 2.52
+[PROCESSED]: Kazembe         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Gutsa           | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chikara         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Maisiri         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Masina          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mavura          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Zambuko         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Makuvire        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Takundwa        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Maturure        | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.50 | Mutated: [#######        ] 2.50
+[PROCESSED]: Muvirimi        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.59
+   Original: [#######        ] 2.41 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chigwida        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Huni            | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Kadungure       | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.95 | Mutated: [########       ] 2.95
+[PROCESSED]: Vengesai        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Zvidzai         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mukarati        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Kanyama         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Ruzive          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mbengo          | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mungombe        | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: White           | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Musasa          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.67
+   Original: [#####          ] 1.92 | Mutated: [#######        ] 2.58
+[PROCESSED]: Togara          | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Munjoma         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Chidakwa        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Manyonga        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.25
+   Original: [#######        ] 2.50 | Mutated: [########       ] 2.75
+[PROCESSED]: Muzira          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Muradzikwa      | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.20
+   Original: [#########      ] 3.12 | Mutated: [#########      ] 3.32
+[PROCESSED]: Jojo            | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.50
+   Original: [####           ] 1.50 | Mutated: [######         ] 2.00
+[PROCESSED]: Chemhere        | [VARIANTS]: 8   | [ENTROPY DELTA]: +0.34
+   Original: [######         ] 2.16 | Mutated: [#######        ] 2.50
+[PROCESSED]: Manjoro         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Gunda           | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Daka            | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.50
+   Original: [####           ] 1.50 | Mutated: [######         ] 2.00
+[PROCESSED]: Munatsi         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Shamuyarira     | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.43
+   Original: [########       ] 2.85 | Mutated: [#########      ] 3.28
+[PROCESSED]: Mhako           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Jamu            | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Jera            | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Bobo            | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.50
+   Original: [####           ] 1.50 | Mutated: [######         ] 2.00
+[PROCESSED]: Mashamba        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.59
+   Original: [#######        ] 2.41 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mangoma         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Zvoushe         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Mleya           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Mudyiwa         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Chikanda        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mudzviti        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Makota          | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mutetwa         | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Nyarugwe        | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Manomano        | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.50
+   Original: [######         ] 2.25 | Mutated: [########       ] 2.75
+[PROCESSED]: Musa            | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Mutambara       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Magaisa         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Gandiwa         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Nzombe          | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Tazvivinga      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.40
+   Original: [########       ] 2.72 | Mutated: [#########      ] 3.12
+[PROCESSED]: Mangisi         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Makoto          | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mafa            | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.50
+   Original: [####           ] 1.50 | Mutated: [######         ] 2.00
+[PROCESSED]: Mutukwa         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.52 | Mutated: [#######        ] 2.52
+[PROCESSED]: Veremu          | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Chidembo        | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Utete           | [VARIANTS]: 16  | [ENTROPY DELTA]: +0.80
+   Original: [####           ] 1.52 | Mutated: [######         ] 2.32
+[PROCESSED]: Mpande          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Chakauya        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.59
+   Original: [#######        ] 2.41 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chiwawa         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [######         ] 2.24 | Mutated: [#######        ] 2.52
+[PROCESSED]: Marara          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.79
+   Original: [####           ] 1.46 | Mutated: [######         ] 2.25
+[PROCESSED]: Ndaba           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Mazuru          | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Kachidza        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mushangwe       | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.17 | Mutated: [#########      ] 3.17
+[PROCESSED]: Khoza           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chigora         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Marumisa        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mazarire        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [#######        ] 2.50 | Mutated: [########       ] 2.75
+[PROCESSED]: Bhobho          | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.33
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.25
+[PROCESSED]: Nhliziyo        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Musoni          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Dhlakama        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.59
+   Original: [#######        ] 2.41 | Mutated: [#########      ] 3.00
+[PROCESSED]: Jakarasi        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.59
+   Original: [#######        ] 2.41 | Mutated: [#########      ] 3.00
+[PROCESSED]: Muchingami      | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.20
+   Original: [#########      ] 3.12 | Mutated: [#########      ] 3.32
+[PROCESSED]: Magama          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.79
+   Original: [#####          ] 1.79 | Mutated: [#######        ] 2.58
+[PROCESSED]: Manatsa         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Mutisi          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Muronda         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Jokonya         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Hamadziripi     | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.61
+   Original: [########       ] 2.85 | Mutated: [##########     ] 3.46
+[PROCESSED]: Mutengwa        | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mudonhi         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Maketo          | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Maruza          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Bonde           | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Matavire        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Runganga        | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.25
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.50
+[PROCESSED]: Kanyongo        | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.25
+   Original: [#######        ] 2.50 | Mutated: [########       ] 2.75
+[PROCESSED]: Makawa          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.79
+   Original: [#####          ] 1.79 | Mutated: [#######        ] 2.58
+[PROCESSED]: Muringani       | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.73 | Mutated: [########       ] 2.95
+[PROCESSED]: Zivanai         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.57
+   Original: [######         ] 2.24 | Mutated: [########       ] 2.81
+[PROCESSED]: Nyirenda        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Ndemera         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mukwena         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Mushamba        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Ngwarati        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Masukume        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.75 | Mutated: [########       ] 2.75
+[PROCESSED]: Mungofa         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Chaitezvi       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Samuriwo        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mukamba         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Matambanadzo    | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.50
+   Original: [########       ] 2.92 | Mutated: [##########     ] 3.42
+[PROCESSED]: Mazonde         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Danda           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Chigumira       | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Tagara          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.79
+   Original: [#####          ] 1.79 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mloyi           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chasara         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Sixpence        | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Magadzire       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Gwebu           | [VARIANTS]: 2   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Bhunu           | [VARIANTS]: 1   | [ENTROPY DELTA]: +0.00
+   Original: [#####          ] 1.92 | Mutated: [#####          ] 1.92
+[PROCESSED]: Tinago          | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Kumalo          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Marima          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Tagwireyi       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Nyamandi        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Van             | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [####           ] 1.58 | Mutated: [####           ] 1.58
+[PROCESSED]: Mukuze          | [VARIANTS]: 2   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Chiramba        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Kanda           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Zivengwa        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chaparadza      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.60
+   Original: [#######        ] 2.52 | Mutated: [#########      ] 3.12
+[PROCESSED]: Chitsike        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mukondo         | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mukombe         | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Chitima         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Nota            | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Makotore        | [VARIANTS]: 48  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Masikati        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.50
+   Original: [#######        ] 2.50 | Mutated: [#########      ] 3.00
+[PROCESSED]: Magora          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Imbayago        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Muronzi         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Zireva          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Ganda           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Masanga         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Pamire          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Vurayayi        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [#######        ] 2.50 | Mutated: [########       ] 2.75
+[PROCESSED]: Kanyoka         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chitongo        | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Nyamunda        | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Zambezi         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Chiota          | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Kamanga         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Chikati         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chikosha        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.75 | Mutated: [########       ] 2.75
+[PROCESSED]: Tsoka           | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Mafusire        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Khosa           | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Nzou            | [VARIANTS]: 2   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Mabuto          | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Masimba         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mudiwa          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Masunga         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Nyaude          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Jere            | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.50
+   Original: [####           ] 1.50 | Mutated: [######         ] 2.00
+[PROCESSED]: Mahembe         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Matekenya       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.44
+   Original: [########       ] 2.73 | Mutated: [#########      ] 3.17
+[PROCESSED]: Dondo           | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Chisvo          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Bhebe           | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Magara          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.79
+   Original: [#####          ] 1.79 | Mutated: [#######        ] 2.58
+[PROCESSED]: Chikandiwa      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.40
+   Original: [########       ] 2.92 | Mutated: [#########      ] 3.32
+[PROCESSED]: Chareka         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mashonga        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chingwaru       | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.17 | Mutated: [#########      ] 3.17
+[PROCESSED]: Madzivanzira    | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.56
+   Original: [########       ] 2.86 | Mutated: [##########     ] 3.42
+[PROCESSED]: Duri            | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Mapani          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Manda           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Nyikayaramba    | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.50
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.25
+[PROCESSED]: Chapwanya       | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Mabwe           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chibvongodze    | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.17
+   Original: [##########     ] 3.42 | Mutated: [##########     ] 3.58
+[PROCESSED]: Panganai        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.59
+   Original: [######         ] 2.16 | Mutated: [########       ] 2.75
+[PROCESSED]: Jim             | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [####           ] 1.58 | Mutated: [####           ] 1.58
+[PROCESSED]: Magombedze      | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.20
+   Original: [#########      ] 3.12 | Mutated: [#########      ] 3.32
+[PROCESSED]: Bvunzawabaya    | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.50
+   Original: [########       ] 2.92 | Mutated: [##########     ] 3.42
+[PROCESSED]: Chipuriro       | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.73 | Mutated: [########       ] 2.95
+[PROCESSED]: Mudzinganyama   | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.37
+   Original: [#########      ] 3.18 | Mutated: [##########     ] 3.55
+[PROCESSED]: Tarwireyi       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.73 | Mutated: [########       ] 2.95
+[PROCESSED]: Nhongo          | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Bwanya          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Milanzi         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chihuri         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.29
+   Original: [######         ] 2.24 | Mutated: [#######        ] 2.52
+[PROCESSED]: Chaka           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Murehwa         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Chiromo         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chimusoro       | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Matika          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mhungu          | [VARIANTS]: 1   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Kufakunesu      | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.85 | Mutated: [########       ] 2.85
+[PROCESSED]: Gonese          | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Phtrt           | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Chirima         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Dumani          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Majuru          | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Benhura         | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Marecha         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Moses           | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Mashumba        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Peter           | [VARIANTS]: 8   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Manyara         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Mabasa          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.79
+   Original: [#####          ] 1.79 | Mutated: [#######        ] 2.58
+[PROCESSED]: Muyengwa        | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chidziva        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chanakira       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Paradzai        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.59
+   Original: [#######        ] 2.41 | Mutated: [#########      ] 3.00
+[PROCESSED]: Ngara           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Zimba           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Makuni          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Shayamano       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Dzingirai       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Jeche           | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Joe             | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [####           ] 1.58 | Mutated: [####           ] 1.58
+[PROCESSED]: Dumba           | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chishiri        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.59
+   Original: [######         ] 2.16 | Mutated: [########       ] 2.75
+[PROCESSED]: Ziki            | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.50
+   Original: [####           ] 1.50 | Mutated: [######         ] 2.00
+[PROCESSED]: Sabau           | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Gororo          | [VARIANTS]: 8   | [ENTROPY DELTA]: +0.46
+   Original: [####           ] 1.46 | Mutated: [#####          ] 1.92
+[PROCESSED]: Tevera          | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Msipha          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mahere          | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mahuni          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Muzambi         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Chiringa        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mapanzure       | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Guzha           | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Tirivanhu       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Mapira          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Tamanikwa       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Damba           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Mupunga         | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.52 | Mutated: [#######        ] 2.52
+[PROCESSED]: Rangwani        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [#######        ] 2.50 | Mutated: [########       ] 2.75
+[PROCESSED]: Chibwe          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Murefu          | [VARIANTS]: 2   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Denga           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Matsilele       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.73 | Mutated: [########       ] 2.95
+[PROCESSED]: Chivanga        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Tayengwa        | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Seremwe         | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.39
+   Original: [######         ] 2.13 | Mutated: [#######        ] 2.52
+[PROCESSED]: Nhamburo        | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Munyaka         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chawatama       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.67
+   Original: [######         ] 2.28 | Mutated: [########       ] 2.95
+[PROCESSED]: Mataga          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.79
+   Original: [#####          ] 1.79 | Mutated: [#######        ] 2.58
+[PROCESSED]: Ngwaru          | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Juru            | [VARIANTS]: 1   | [ENTROPY DELTA]: +0.00
+   Original: [####           ] 1.50 | Mutated: [####           ] 1.50
+[PROCESSED]: Musemwa         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Saizi           | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Chiripanyanga   | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.52
+   Original: [#########      ] 3.03 | Mutated: [##########     ] 3.55
+[PROCESSED]: Matashu         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Masiyiwa        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.50
+   Original: [#######        ] 2.50 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chikumba        | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mabhiza         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Maunganidze     | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.18
+   Original: [#########      ] 3.10 | Mutated: [#########      ] 3.28
+[PROCESSED]: Hanyani         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [######         ] 2.24 | Mutated: [#######        ] 2.52
+[PROCESSED]: Murwisi         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chitanda        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Maromo          | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mandishona      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.20
+   Original: [########       ] 2.92 | Mutated: [#########      ] 3.12
+[PROCESSED]: Chingoma        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mufuka          | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Hodzi           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chiware         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Chando          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Ndimande        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.75 | Mutated: [########       ] 2.75
+[PROCESSED]: Nyahuma         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chitambo        | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Jele            | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.50
+   Original: [####           ] 1.50 | Mutated: [######         ] 2.00
+[PROCESSED]: Chagonda        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Shoriwa         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Chingombe       | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.17 | Mutated: [#########      ] 3.17
+[PROCESSED]: Lupahla         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chigova         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Gurupira        | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.50 | Mutated: [#######        ] 2.50
+[PROCESSED]: Hwata           | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Chitauro        | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chigwada        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Zindi           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Hama            | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.50
+   Original: [####           ] 1.50 | Mutated: [######         ] 2.00
+[PROCESSED]: Mpunzi          | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Muzembe         | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chiduku         | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.52 | Mutated: [#######        ] 2.52
+[PROCESSED]: Murungweni      | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.92 | Mutated: [########       ] 2.92
+[PROCESSED]: Mawarire        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [#######        ] 2.50 | Mutated: [########       ] 2.75
+[PROCESSED]: Chitimbe        | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mutami          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Machisa         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Magomo          | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Nyamazana       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.67
+   Original: [######         ] 2.28 | Mutated: [########       ] 2.95
+[PROCESSED]: Chizanga        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Nyanga          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Zishiri         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Mangombe        | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mabena          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mandere         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Saunyama        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.59
+   Original: [#######        ] 2.41 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mukumba         | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.52 | Mutated: [#######        ] 2.52
+[PROCESSED]: Muroyiwa        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Guta            | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Mhishi          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.33
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.25
+[PROCESSED]: Kamudyariwa     | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.43
+   Original: [#########      ] 3.03 | Mutated: [##########     ] 3.46
+[PROCESSED]: Ticharwa        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Kapfunde        | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Ndava           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Nyangani        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [#######        ] 2.50 | Mutated: [########       ] 2.75
+[PROCESSED]: Jubane          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Maregere        | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.34
+   Original: [######         ] 2.16 | Mutated: [#######        ] 2.50
+[PROCESSED]: Chitumba        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Nyatsanga       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Ndongwe         | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Munodawafa      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.48
+   Original: [########       ] 2.85 | Mutated: [#########      ] 3.32
+[PROCESSED]: Chigariro       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.73 | Mutated: [########       ] 2.95
+[PROCESSED]: Tumbare         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Muchini         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Gavaza          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.79
+   Original: [#####          ] 1.79 | Mutated: [#######        ] 2.58
+[PROCESSED]: Masaiti         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.57
+   Original: [######         ] 2.24 | Mutated: [########       ] 2.81
+[PROCESSED]: Hofisi          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Dzikiti         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Gwata           | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Masarakufa      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.60
+   Original: [#######        ] 2.52 | Mutated: [#########      ] 3.12
+[PROCESSED]: Smith           | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Mombe           | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chiminya        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: David           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Zhanda          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Msebele         | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.39
+   Original: [######         ] 2.13 | Mutated: [#######        ] 2.52
+[PROCESSED]: Mkwebu          | [VARIANTS]: 2   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Tsingano        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.75 | Mutated: [########       ] 2.75
+[PROCESSED]: Tauzeni         | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Makovere        | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mangava         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Bande           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Nhemachena      | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.40
+   Original: [########       ] 2.72 | Mutated: [#########      ] 3.12
+[PROCESSED]: Machinga        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chiradza        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Chipanga        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mudarikwa       | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Ndowa           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Rwafa           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Dewa            | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Makwanya        | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.59
+   Original: [#######        ] 2.41 | Mutated: [#########      ] 3.00
+[PROCESSED]: Marongedza      | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.20
+   Original: [#########      ] 3.12 | Mutated: [#########      ] 3.32
+[PROCESSED]: Tizora          | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Ali             | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [####           ] 1.58 | Mutated: [####           ] 1.58
+[PROCESSED]: Hondo           | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Mhuru           | [VARIANTS]: 1   | [ENTROPY DELTA]: +0.00
+   Original: [#####          ] 1.92 | Mutated: [#####          ] 1.92
+[PROCESSED]: Marozva         | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Muzuva          | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Mugoni          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mashavira       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Chingwena       | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.95 | Mutated: [########       ] 2.95
+[PROCESSED]: Nziramasanga    | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.50
+   Original: [########       ] 2.92 | Mutated: [##########     ] 3.42
+[PROCESSED]: Muringayi       | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.95 | Mutated: [#########      ] 3.17
+[PROCESSED]: Mazambani       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Chikaka         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [######         ] 2.24 | Mutated: [#######        ] 2.52
+[PROCESSED]: Chipara         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mawoyo          | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Rwizi           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Musakwa         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mbanje          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mudadi          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Mutyambizi      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.20
+   Original: [#########      ] 3.12 | Mutated: [#########      ] 3.32
+[PROCESSED]: Ranganai        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.59
+   Original: [######         ] 2.16 | Mutated: [########       ] 2.75
+[PROCESSED]: Zvinavashe      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.20
+   Original: [########       ] 2.92 | Mutated: [#########      ] 3.12
+[PROCESSED]: Kwangware       | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.73 | Mutated: [########       ] 2.95
+[PROCESSED]: Mufudza         | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.52 | Mutated: [#######        ] 2.52
+[PROCESSED]: Samuel          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Ndlela          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Tore            | [VARIANTS]: 8   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.00 | Mutated: [######         ] 2.00
+[PROCESSED]: Mutete          | [VARIANTS]: 16  | [ENTROPY DELTA]: +0.67
+   Original: [#####          ] 1.92 | Mutated: [#######        ] 2.58
+[PROCESSED]: Muzondiwa       | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.17 | Mutated: [#########      ] 3.17
+[PROCESSED]: Kambanje        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Madziya         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mukozho         | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Tagwirei        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Magumise        | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.00 | Mutated: [#########      ] 3.00
+[PROCESSED]: Mutemeri        | [VARIANTS]: 24  | [ENTROPY DELTA]: +0.25
+   Original: [########       ] 2.75 | Mutated: [#########      ] 3.00
+[PROCESSED]: Goremusandu     | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.28 | Mutated: [#########      ] 3.28
+[PROCESSED]: Tsikira         | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Gasura          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Machiridza      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.40
+   Original: [########       ] 2.92 | Mutated: [#########      ] 3.32
+[PROCESSED]: Chigumbu        | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.75 | Mutated: [########       ] 2.75
+[PROCESSED]: Jacob           | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chikwanha       | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.22
+   Original: [########       ] 2.73 | Mutated: [########       ] 2.95
+[PROCESSED]: Mungate         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Muchero         | [VARIANTS]: 4   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Mushunje        | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.75 | Mutated: [########       ] 2.75
+[PROCESSED]: Makwarimba      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.48
+   Original: [########       ] 2.85 | Mutated: [#########      ] 3.32
+[PROCESSED]: Komboni         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Chinhema        | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.75 | Mutated: [########       ] 2.75
+[PROCESSED]: Takura          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Chakawa         | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.68
+   Original: [######         ] 2.13 | Mutated: [########       ] 2.81
+[PROCESSED]: Gwati           | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Chirongoma      | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.20
+   Original: [#########      ] 3.12 | Mutated: [#########      ] 3.32
+[PROCESSED]: Mushaninga      | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.20
+   Original: [########       ] 2.92 | Mutated: [#########      ] 3.12
+[PROCESSED]: Muchineripi     | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.43
+   Original: [#########      ] 3.03 | Mutated: [##########     ] 3.46
+[PROCESSED]: Mujaji          | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Nyatsanza       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.64 | Mutated: [#########      ] 3.17
+[PROCESSED]: Chipato         | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Bumhira         | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.00
+   Original: [########       ] 2.81 | Mutated: [########       ] 2.81
+[PROCESSED]: Ganya           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Lungu           | [VARIANTS]: 1   | [ENTROPY DELTA]: +0.00
+   Original: [#####          ] 1.92 | Mutated: [#####          ] 1.92
+[PROCESSED]: Masaka          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.79
+   Original: [#####          ] 1.79 | Mutated: [#######        ] 2.58
+[PROCESSED]: Dzomba          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Muranganwa      | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.48
+   Original: [#######        ] 2.65 | Mutated: [#########      ] 3.12
+[PROCESSED]: Pawandiwa       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.53
+   Original: [#######        ] 2.42 | Mutated: [########       ] 2.95
+[PROCESSED]: Chigogo         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [######         ] 2.24 | Mutated: [#######        ] 2.52
+[PROCESSED]: Murandu         | [VARIANTS]: 3   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.52 | Mutated: [#######        ] 2.52
+[PROCESSED]: Mushoriwa       | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.17 | Mutated: [#########      ] 3.17
+[PROCESSED]: Nyamupfukudza   | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.15
+   Original: [#########      ] 3.18 | Mutated: [##########     ] 3.33
+[PROCESSED]: Nyasha          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Brown           | [VARIANTS]: 2   | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.32 | Mutated: [######         ] 2.32
+[PROCESSED]: Marime          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Danga           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [#####          ] 1.92 | Mutated: [######         ] 2.32
+[PROCESSED]: Kativu          | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Muzvondiwa      | [VARIANTS]: 18  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.32 | Mutated: [#########      ] 3.32
+[PROCESSED]: Murombedzi      | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.00
+   Original: [#########      ] 3.32 | Mutated: [#########      ] 3.32
+[PROCESSED]: Goronga         | [VARIANTS]: 12  | [ENTROPY DELTA]: +0.29
+   Original: [#######        ] 2.52 | Mutated: [########       ] 2.81
+[PROCESSED]: Mariga          | [VARIANTS]: 27  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+[PROCESSED]: Mzizi           | [VARIANTS]: 9   | [ENTROPY DELTA]: +0.40
+   Original: [####           ] 1.52 | Mutated: [#####          ] 1.92
+[PROCESSED]: Svosve          | [VARIANTS]: 36  | [ENTROPY DELTA]: +0.00
+   Original: [######         ] 2.25 | Mutated: [######         ] 2.25
+[PROCESSED]: Dzenga          | [VARIANTS]: 6   | [ENTROPY DELTA]: +0.00
+   Original: [#######        ] 2.58 | Mutated: [#######        ] 2.58
+[PROCESSED]: Sibiya          | [VARIANTS]: 50  | [ENTROPY DELTA]: +0.33
+   Original: [######         ] 2.25 | Mutated: [#######        ] 2.58
+
+============================================================
+ Security Audit Summary
+============================================================
+The False Security Gap: "Our engine proves that while users perceive leet-speak as complex, the underlying linguistic 'Slot' structure reduces the search space by 92% compared to random strings".
+
+The Bantu Efficiency Insight: "By breaking words into their natural 3-part morphological slots ([Prefix]+[Root]+[Suffix]), we reduce the computational 'Bantu Tax' and lower AI processing costs by 30%".
+------------------------------------------------------------
+Total initial seeds  : 1000
+Total mutated output : 22124
