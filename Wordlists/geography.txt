@@ -1,0 +1,188 @@
+
+ADM1_EN
+Bulawayo
+Chivhu Local Board
+Harare
+Harare
+Harare
+Harare
+Manicaland
+Manicaland
+Manicaland
+Manicaland
+Manicaland
+Manicaland
+Manicaland
+Manicaland
+Manicaland
+Manicaland
+Mashonaland Central
+Mashonaland Central
+Mashonaland Central
+Mashonaland Central
+Mashonaland Central
+Mashonaland Central
+Mashonaland Central
+Mashonaland Central
+Mashonaland Central
+Mashonaland Central
+Mashonaland East
+Mashonaland East
+Mashonaland East
+Mashonaland East
+Mashonaland East
+Mashonaland East
+Mashonaland East
+Mashonaland East
+Mashonaland East
+Mashonaland East
+Mashonaland East
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Masvingo
+Masvingo
+Masvingo
+Masvingo
+Masvingo
+Masvingo
+Masvingo
+Masvingo
+Masvingo
+Matabeleland  North
+Matabeleland  North
+Matabeleland  North
+Matabeleland  North
+Matabeleland  North
+Matabeleland  North
+Matabeleland  North
+Matabeleland  North
+Matabeleland  North
+Matabeleland South
+Matabeleland South
+Matabeleland South
+Matabeleland South
+Matabeleland South
+Matabeleland South
+Matabeleland South
+Matabeleland South
+Matabeleland South
+Matabeleland South
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+Midlands
+
+ADM2_EN
+Bulawayo
+Chivhu Local Board
+Chitungwiza
+Epworth
+Harare
+Harare Rural
+Buhera
+Chimanimani
+Chipinge
+Chipinge Urban
+Makoni
+Mutare
+Mutare Urban
+Mutasa
+Nyanga
+Rusape
+Bindura
+Bindura Urban
+Centenary/ Muzarabani
+Guruve
+Mazowe
+Mbire
+Mount Darwin
+Mvurwi
+Rushinga
+Shamva
+Chikomba
+Goromonzi
+Hwedza
+Marondera
+Marondera Urban
+Mudzi
+Murehwa
+Mutoko
+Ruwa Local Board
+Seke
+Uzumba Maramba Pfungwe
+Chegutu
+Chegutu Urban
+Chinhoyi
+Hurungwe
+Kadoma Urban
+Kariba
+Kariba Urban
+Karoi
+Makonde
+Mhondoro-Ngezi
+Norton  
+Sanyati
+Zvimba
+Bikita
+Chiredzi
+Chiredzi Urban
+Chivi
+Gutu
+Masvingo
+Masvingo Urban
+Mwenezi
+Zaka
+Binga
+Bubi
+Hwange
+Hwange Urban
+Lupane
+Nkayi
+Tsholotsho
+Umguza
+Victoria Falls
+Beitbridge
+Beitbridge Urban
+Bulilima
+Gwanda Rural
+Gwanda Urban
+Insiza
+Mangwe
+Matobo
+Plumtree
+Umzingwane
+Chirumhanzu
+Gokwe North
+Gokwe South
+Gokwe South Urban
+Gweru Rural
+Gweru Urban
+Kwekwe
+Kwekwe Urban
+Mberengwa
+Redcliff
+Shurugwi
+Shurugwi Urban
+Zvishavane
+Zvishavane Urban
