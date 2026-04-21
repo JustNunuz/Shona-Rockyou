@@ -47,46 +47,13 @@ The goal is analysis and preservation, not exploitation.
 
 The corpus is structured into discrete, analyzable components. Each category may be studied independently or combined for comparative analysis.
 
-```
-data/
- ├── names_given.txt        # Shona given names
- ├── names_surnames.txt    # Common Shona surnames
- ├── totems.txt            # Mitupo (clan totems)
- ├── towns.txt             # Towns, cities, and place names
- ├── prefixes.txt          # Common linguistic prefixes
- ├── suffixes.txt          # Common linguistic suffixes
- ├── combined_raw.txt      # All entries combined (raw)
- ├── popculture.txt        # celebs, slang, brands basically pop-culture
- └── combined_mutated.txt  # Generated morphological variants
-```
+Instead of maintaining a strictly structured directory tree, the data is loosely organized into foundational concepts:
 
-### 1. Given Names
-
-Personal names reflecting:
-
-* Meaning-based naming
-* Gender-neutral structures
-* Religious and traditional overlap
-
-### 2. Surnames
-
-Family names with strong cultural and clan associations, often tied to totems or geography.
-
-### 3. Totems (Mitupo)
-
-Clan identifiers that encode lineage, taboo, praise poetry, and cultural identity.
-
-### 4. Place Names
-
-Geographic identifiers reflecting:
-
-* Pre-colonial language
-* Colonial influence
-* Urban vs rural naming patterns
-
-### 5. Morphological Components
-
-Prefixes and suffixes commonly reused across names and words, enabling structural analysis and variant generation.
+* **Cleaned Foundation Data:** Curated datasets of given names, surnames, and geographic places. These are manually cleaned dictionaries used to test language models against real, culturally significant inputs.
+* **Totems (Mitupo):** Specialized lists of clan identifiers that encode lineage and taboo, revealing cultural patterns beyond standard dictionary words.
+* **Morphological Components:** Separated lists of common prefixes and suffixes. These exist so engines can organically dissect and reconstruct agglutinative naming structures.
+* **Mutated Variant Data:** Output files containing hundreds of thousands of generated, morphological variants. Useful specifically for testing password crackability.
+* **Pop Culture & Context Data:** Real-world usage dictionaries, tracking slang, brands, and celeb names used locally.
 
 ---
 
