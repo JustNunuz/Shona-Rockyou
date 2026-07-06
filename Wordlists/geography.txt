@@ -1,188 +1,243 @@
-
-ADM1_EN
-Bulawayo
-Chivhu Local Board
-Harare
-Harare
-Harare
-Harare
-Manicaland
-Manicaland
-Manicaland
-Manicaland
-Manicaland
-Manicaland
-Manicaland
-Manicaland
-Manicaland
-Manicaland
-Mashonaland Central
-Mashonaland Central
-Mashonaland Central
-Mashonaland Central
-Mashonaland Central
-Mashonaland Central
-Mashonaland Central
-Mashonaland Central
-Mashonaland Central
-Mashonaland Central
-Mashonaland East
-Mashonaland East
-Mashonaland East
-Mashonaland East
-Mashonaland East
-Mashonaland East
-Mashonaland East
-Mashonaland East
-Mashonaland East
-Mashonaland East
-Mashonaland East
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Mashonaland West
-Masvingo
-Masvingo
-Masvingo
-Masvingo
-Masvingo
-Masvingo
-Masvingo
-Masvingo
-Masvingo
-Matabeleland  North
-Matabeleland  North
-Matabeleland  North
-Matabeleland  North
-Matabeleland  North
-Matabeleland  North
-Matabeleland  North
-Matabeleland  North
-Matabeleland  North
-Matabeleland South
-Matabeleland South
-Matabeleland South
-Matabeleland South
-Matabeleland South
-Matabeleland South
-Matabeleland South
-Matabeleland South
-Matabeleland South
-Matabeleland South
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-Midlands
-
-ADM2_EN
-Bulawayo
-Chivhu Local Board
-Chitungwiza
-Epworth
-Harare
-Harare Rural
-Buhera
-Chimanimani
-Chipinge
-Chipinge Urban
-Makoni
-Mutare
-Mutare Urban
-Mutasa
-Nyanga
-Rusape
-Bindura
-Bindura Urban
-Centenary/ Muzarabani
-Guruve
-Mazowe
-Mbire
-Mount Darwin
-Mvurwi
-Rushinga
-Shamva
-Chikomba
-Goromonzi
-Hwedza
-Marondera
-Marondera Urban
-Mudzi
-Murehwa
-Mutoko
-Ruwa Local Board
-Seke
-Uzumba Maramba Pfungwe
-Chegutu
-Chegutu Urban
-Chinhoyi
-Hurungwe
-Kadoma Urban
-Kariba
-Kariba Urban
-Karoi
-Makonde
-Mhondoro-Ngezi
-Norton  
-Sanyati
-Zvimba
-Bikita
-Chiredzi
-Chiredzi Urban
-Chivi
-Gutu
-Masvingo
-Masvingo Urban
-Mwenezi
-Zaka
-Binga
-Bubi
-Hwange
-Hwange Urban
-Lupane
-Nkayi
-Tsholotsho
-Umguza
-Victoria Falls
+Antelope
+Ascot
+Banket
+Basera
+Battlefields
+Bazeley Bridge
+Beatrice
 Beitbridge
 Beitbridge Urban
+Bikita
+Bindura
+Bindura Urban
+Binga
+Birchenough Bridge
+Biriiri
+Blanket
+Bocha
+Boli
+Bubi
+Budiriro
+Buhera
+Bulawayo
 Bulilima
-Gwanda Rural
-Gwanda Urban
-Insiza
-Mangwe
-Matobo
-Plumtree
-Umzingwane
+Cashel
+Centenary
+Centenary/ Muzarabani
+Chakari
+Charandura
+Chatsworth
+Checheche
+Chegutu
+Chegutu Urban
+Chigodora
+Chikomba
+Chikombedzi
+Chilimanzi
+Chimanimani
+Chinhoyi
+Chipinge
+Chipinge Urban
+Chiredzi
+Chiredzi Urban
 Chirumhanzu
+Chirundu
+Chitakatira
+Chitungwiza
+Chivhu
+Chivhu Local Board
+Chivi
+Colleen Bawn
+Darwendale
+Dete
+Dolo
+Domboshava
+Dora
+Driefontein
+Dzivarasekwa
+Eiffel Flats
+Empandeni
+Empress
+Epworth
+Esigodini
+Fatima
+Featherstone
+Figtree
+Filabusi
+Gazaland
+Glen Norah
+Glen View
+Gokwe
 Gokwe North
 Gokwe South
 Gokwe South Urban
+Goromonzi
+Guruve
+Gutu
+Gwanda
+Gwanda Rural
+Gwanda Urban
+Gweru
 Gweru Rural
 Gweru Urban
+Harare
+Harare Rural
+Hatcliffe
+Hauna
+Headlands
+Highfield
+Hot Springs
+Hurungwe
+Hwange
+Hwange Urban
+Hwedza
+Insiza
+Inyati
+Jerera
+Juliasdale
+Kadoma
+Kadoma Urban
+Kamativi
+Kambuzuma
+Kariba
+Kariba Urban
+Karoi
+Kazungula
+Kenmaur
+Kezi
+Kotwa
+Kutama
+Kuwadzana
 Kwekwe
 Kwekwe Urban
+Lalapanzi
+Lupane
+Mabvuku
+Machipisa
+Magunje
+Mahusekwa
+Makonde
+Makoni
+Makuti
+Malipati
+Mambo
+Mangwe
+Manicaland
+Maphisa
+Maramba
+Marange
+Marondera
+Marondera Urban
+Marula
+Mashava
+Mashonaland
+Mashonaland Central
+Mashonaland East
+Mashonaland West
+Masvingo
+Masvingo Urban
+Matabeleland
+Matabeleland  North
+Matabeleland North
+Matabeleland South
+Mataga
+Matobo
+Mayo
+Mazowe
+Mbare
+Mbembesi
 Mberengwa
+Mbire
+Mhondoro
+Mhondoro-Ngezi
+Midlands
+Mkoba
+Mount Darwin
+Mtapa
+Mudzi
+Mufakose
+Munyati
+Mupandawana
+Murambinda
+Murehwa
+Murewa
+Murombedzi
+Mutambara
+Mutandahwe
+Mutare
+Mutare Urban
+Mutasa
+Mutoko
+Muzarabani
+Mvuma
+Mvurwi
+Mwenezi
+Ndali
+Nehosho
+Nembudziya
+Neshuro
+Ngezi
+Ngundu
+Nkayi
+Norton
+Ntabazinduna
+Nyamapanda
+Nyanga
+Nyanyadzi
+Nyatsime
+Nyazura
+Nyika
+Odzi
+Pandamatenga
+Penhalonga
+Pfungwe
+Plumtree
 Redcliff
+Robins Camp
+Rugare
+Rupangwana
+Rusape
+Rushinga
+Rutenga
+Ruwa
+Ruwa Local Board
+Sadza
+Sanyati
+Sarahuru
+Seke
+Selous
+Senga
+Serima
+Shamva
+Shangani
 Shurugwi
 Shurugwi Urban
+Siabuwa
+Silobela
+Skyline
+Somabhula
+St Marys
+Tafara
+Tengwe
+Troutbeck
+Tshelanyemba
+Tsholotsho
+Tshovani
+Tuli
+Turk Mine
+Umguza
+Umzingwane
+Uzumba
+Uzumba Maramba Pfungwe
+Victoria Falls
+Vumbachikwe
+Warren Park
+Watsomba
+West Nicholson
+Zaka
+Zengeza
+Zhombe
+Zimunya
+Zvimba
 Zvishavane
 Zvishavane Urban
